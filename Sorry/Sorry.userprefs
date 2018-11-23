@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameProcess.cs">
+    <Files>
+      <File FileName="Assets/Red1.cs" Line="25" Column="3" />
+      <File FileName="Assets/Player2.cs" Line="37" Column="39" />
+      <File FileName="Assets/GameProcess.cs" Line="121" Column="25" />
+      <File FileName="Assets/Sockets.cs" Line="51" Column="4" />
+      <File FileName="Assets/ThreadSock.cs" Line="27" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\karzamd\Desktop\Sorry\Assets\GameProcess.cs" line="249" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\PawnHandle.cs" line="126" offsetX="212" offsetY="2000" expression="playerPositions" liveUpdate="False" />
+    <Watch file="Assets\Green1.cs" line="58" offsetX="228" offsetY="912" expression="playerPositions" liveUpdate="False" />
+    <Watch file="Assets\PawnHandle.cs" line="126" offsetX="212" offsetY="2000" expression="playerPositions" liveUpdate="False" />
+    <Watch file="Assets\PawnHandle.cs" line="126" offsetX="212" offsetY="2000" expression="playerPositions" liveUpdate="False" />
+    <Watch file="Assets\PawnHandle.cs" line="126" offsetX="212" offsetY="2000" expression="playerPositions" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
